@@ -1,18 +1,18 @@
 # basic information
-name: khang nguyen
-profile-pic: assets/img/new_pic.jpg
-pronunciation: /kʰæŋ/
+name: Patricia de Torres Coll
+profile-pic: assets/img/photo.jpg
+pronunciation: 
 
 # emoji indicator
-emoji: 🍀
-desc-emoji: four-leaf clover
+emoji: 
+desc-emoji: 
 
 # social links
-scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
-researchgate: https://www.researchgate.net/profile/Khang-Nguyen-133
-github: https://github.com/mkhangg
-youtube: https://www.youtube.com/@_m.khangg_
-resume: assets/doc/Resume_KhangNguyen.pdf
+scholar: 
+researchgate: 
+github: https://github.com/PatriciadeTorres
+youtube: 
+resume: assets/doc/PatriciadeTorresColl_CV.pdf
 
 # about me
 first-paragraph: I am currently a fourth-year Computer Science undergraduate at the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank" rel="noopener">University of Texas at Arlington</a> and a research assistant at the <hightlight>Learning and Adaptive Robotics Lab</hightlight>, where I am advised by <a href="https://www.uta.edu/academics/faculty/profile?username=huber" target="_blank" rel="noopener">Dr. Manfred Huber</a>. (◕▿◕)
