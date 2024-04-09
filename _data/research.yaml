@@ -31,9 +31,7 @@ projects:
 
   - title: Cross-Modality in Virtual Reality
     system-name: 
-    gif: 
-    - assets/img/exp_environment (1).jpg
-    - assets/img/experiment (1).png
+    gif: assets/img/casestudy.jpg
     conference: Toyohashi University of Technology (2023)
     conference-web: https://www.tut.ac.jp/english/
     status: 
@@ -50,9 +48,7 @@ projects:
   
   - title: Tunable lighting luminaire
     system-name: 
-    gif: 
-    - assets/img/heat.png
-    - assets/img/optics.png
+    gif: assets/img/lightingtech.jpg
     conference: KU Leuven (2023)
     conference-web: https://www.kuleuven.be/kuleuven
     status: 
@@ -86,9 +82,7 @@ projects:
 
   - title: Complete integration of robot arm in a virtual environment
     system-name: 
-    gif: 
-    - assets/img/robotarm1.jpg
-    - assets/img/robotarm2.jpg
+    gif: assets/img/robotarm.jpg
     conference: University of Eastern Finland
     conference-web: https://www.uef.fi/en
     status: 
