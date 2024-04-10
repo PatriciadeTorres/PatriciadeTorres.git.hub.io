@@ -58,7 +58,7 @@ projects:
     demo: 
     slides: 
     talk: 
-    abstract-less: The aim of this proejct was to creting a lighting luminaire that satisfied certain requirements (Volume of $8x8x8$ $cm^{3}$. Total output power-Minimally 2400 lumen within a beam half-opening angle of 12°. Minimal luminaire efficacy 120 lumen/W. Tunable CCT from 2700 K to 6500 K (along the planckian locus, duv $\leq$ 0.006. CRI > = 80.). In addition, there should not have visible colour gradients or disturbing illuminance gradients in the beam pattern.) These requirements needed to be satisfied with available products in the market. The approach was studied with an optical, thermal and components report. 
+    abstract-less: The aim of this proejct was to creting a lighting luminaire that satisfied certain requirements (Volume of 8x8x8 cm^{3}. Total output power-Minimally 2400 lumen within a beam half-opening angle of 12°. Minimal luminaire efficacy 120 lumen/W. Tunable CCT from 2700 K to 6500 K (along the planckian locus, duv = < 0.006. CRI > = 80.). In addition, there should not have visible colour gradients or disturbing illuminance gradients in the beam pattern.) These requirements needed to be satisfied with available products in the market. The approach was studied with an optical, thermal and components report. 
     abstract-more: The tools and softwares used were LightTools, CAD, Sim Scale, Blender, Python and the materials to construct the lamp (LEDs, Wires, HeatSink, Reflector).
     tag: lightingTech
     category: Lighting
