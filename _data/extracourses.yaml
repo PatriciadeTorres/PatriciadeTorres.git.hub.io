@@ -12,11 +12,11 @@ pictures:
     caption: C# in Codeacademy
     year: 2023
 
-  - source: assets/img/uef_logo.png
+  - source: assets/img/extracourses/matlablogo.jpeg
     caption: MATLAB - University of Eastern Finland 
     year: 2022
 
-  - source: assets/img/extracourses/javascript.png
+  - source: assets/img/extracourses/Javascript_badge.svg.png
     caption: JAVASCRIPT in Codeacademy
     year: 2021
 
