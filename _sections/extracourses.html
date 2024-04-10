@@ -1,0 +1,15 @@
+<!-- Extracourses section -->
+
+<hr>
+<div class="row" id="extracourses">
+    <div class="col">
+        <h2 clss="mb-5">📍 Extracourses</h2>
+        <p></p>
+        {{ site.data.gallery.introduction }}
+        <p></p>
+        {% for picture in site.data.extracourses.pictures %}
+            {% include_relative _libs/gallery_widget.html %}
+        {% endfor %}
+        <p></p>
+    </div>
+</div>
