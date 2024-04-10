@@ -4,11 +4,11 @@ pictures:
     caption: Using AR Foundation in Coursera [In Progress]
     year: 2024
 
-  - source: assets/img/extracourses/CourseraUnityC#.pdf
+  - source: assets/img/extracourses/CourseraUnityC#.png
     caption: Unity and C# basics in Coursera
     year: 2023
 
-  - source: assets/img/extracourses/csharp.pdf
+  - source: assets/img/extracourses/csharp.png
     caption: C# in Codeacademy
     year: 2023
 
@@ -20,27 +20,27 @@ pictures:
     caption: JAVASCRIPT in Codeacademy
     year: 2021
 
-  - source: assets/img/extracourses/CNN_Coursera.pdf
+  - source: assets/img/extracourses/CNN_Coursera.png
     caption: Convolutional Neural Networks in Coursera
     year: 2021
 
-  - source: assets/img/extracourses/DeepLTnsorFlow.pdf
+  - source: assets/img/extracourses/DeepLTnsorFlow.png
     caption: Build Deep Learning Models with TensorFlow Skill Path in Codeacademy
     year: 2021
 
-  - source: assets/img/extracourses/MachinelearningPyth.pdf
+  - source: assets/img/extracourses/MachinelearningPyth.png
     caption: Build a Machine Learning Model with Python (2023) Skill Path in Codeacademy
     year: 2021
 
-  - source: assets/img/extracourses/Deep Learning diploma.pdf
+  - source: assets/img/extracourses/DLDiploma.png
     caption: Neural Networks and Deep Learning in Coursera
     year: 2021
 
-  - source: assets/img/extracourses/Machine learning coursera certificado.pdf
+  - source: assets/img/extracourses/MLDiploma.png
     caption: Machine Learning in Coursera
     year: 2021
 
-  - source: assets/img/extracourses/python3.pdf
+  - source: assets/img/extracourses/python3.png
     caption: Learn Python 3 Course in Codeacademy
     year: 2021
 
