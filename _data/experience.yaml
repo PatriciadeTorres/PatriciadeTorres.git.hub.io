@@ -2,7 +2,7 @@ mini-projects:
 
   - title: Summer Internship (2023)
     system-name: InternshipToulouse
-    #gif: 
+    gif: _site/assets/img/toulouse.jpeg
     event: Université Toulouse III-Paul Sabatier, Toulouse, France
     event-web: https://www.univ-tlse3.fr/
     team: Light and Matter Research Group
@@ -14,7 +14,7 @@ mini-projects:
 
   - title: Summer Internship (2021)
     system-name:  
-    #gif:  
+    gif:  _site/assets/img/clinic.jpeg
     event: Hospital Clínic de Barcelona
     event-web: 
     team: ClinicAI
@@ -26,19 +26,7 @@ mini-projects:
 
   - title: International Volunteer (2017)
     system-name:  
-    #gif:  
-    event: Age UK Tonbridge
-    event-web: https://www.ageuk.org.uk/maidstone-sevenoaks-tonbridge/
-    team: 
-    post: 
-    code:  
-    demo: 
-    description: I volunteered at a charity shop dedicated to collecting and selling second-hand clothing. The proceeds from these sales were allocated to support elderly individuals. This endeavor not only provided an opportunity to contribute to a sustainable cycle of clothing reuse but also allowed me to directly impact the well-being of the senior community. Through this experience, I gained valuable insights into the operational aspects of nonprofit retail management, as well as a deeper understanding of the challenges faced by the elderly population.  My involvement in this charitable initiative reaffirmed my commitment to social responsibility and community service.
-     
-
-  - title: International Volunteer (2017)
-    system-name:  
-    ##gif:  
+    gif:  _site/assets/img/ageuk.jpeg
     event: Age UK Tonbridge
     event-web: https://www.ageuk.org.uk/maidstone-sevenoaks-tonbridge/
     team: 
@@ -50,7 +38,7 @@ mini-projects:
   
   - title: Private Tutor
     system-name:  
-    ## gif:  
+    gif: _site/assets/img/tutor.jpeg
     event: Age UK Tonbridge
     event-web: https://www.ageuk.org.uk/maidstone-sevenoaks-tonbridge/
     team: 
