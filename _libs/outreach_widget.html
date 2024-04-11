@@ -18,8 +18,14 @@
         <br>
 
         {% if mini-project.prize %}
-            <u><b><i>Prize</i></b>:</u> {{ mini-project.prize }}
+            <u><b><i>Prize</i></b>:</u>
+            <ul>
+                {% for prize_item in mini-project.prize.split(',') %}
+                    <li>{{ prize_item }}</li>
+                {% endfor %}
+            </ul>
         {% endif %}
     </div>
 </div>
+
 
