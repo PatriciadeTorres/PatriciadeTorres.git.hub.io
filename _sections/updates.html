@@ -7,7 +7,7 @@
         <p></p>
         <div id="filters">
             <button class="filter-button active" data-filter="*">all</button>
-            {% for category in site.data.research.categories %}
+            {% for category in site.data.updates.categories %}
                 <button class="filter-button" data-filter="{{ category.data-filter }}">{{ category.category-name }}</button>
             {% endfor %}
         </div>
