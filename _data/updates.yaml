@@ -1,15 +1,68 @@
-updates:
+categories:
 
-  - picture: assets/img/EU_Comission.jpg
-    desc: Prof. Shigeki Nakauchi (TUT vicepresident) and students on the IMLEX Erasmus Mundus Japan (Michael Makoto Martinsen and Patricia de Torres Coll) had an opportunity to meet Ms. Ilina Ivanova, the European Commissioner for Innovation, Research, Culture Education and Youth. This honor had made during Ms. Ivanova’s visit to Japan to boost education cooperation with EU. We were invited to the meeting and had an opportunity to introduce IMLEX.
-    time: April 2024
+  - data-filter: Academic
+    category-name: Academic
+
+  - data-filter: Other
+    category-name: Other
+
+projects:
+
+  - title: From neutral to angry faces, with different races
+    system-name: 
+    gif: assets/img/EU_Comission.jpg
+    conference: Delegation of the EU to Japan Europa House.
+    conference-web: https://www.eeas.europa.eu/delegations/japan_en?s=169
+    status: 
+    authors:
+    pdf: 
+    code: 
+    demo: 
+    slides: 
+    talk: 
+    abstract-less: Prof. Shigeki Nakauchi (TUT vicepresident) and students on the IMLEX Erasmus Mundus Japan (Michael Makoto Martinsen and Patricia de Torres Coll) had an opportunity to meet Ms. Ilina Ivanova, the European Commissioner for Innovation, Research, Culture Education and Youth.
+   
+    abstract-more:  This honor had made during Ms. Ivanova’s visit to Japan to boost education cooperation with EU. We were invited to the meeting and had an opportunity to introduce IMLEX.
+    tag: EUCommision
+    category: Academic
+
+  - title: Basketball
+    system-name: 
+    gif: assets/img/basketball.jpg
+    conference: Heriot-Watt University Basketball
+    conference-web: https://sportsunion.site.hw.ac.uk/basketball/
+    status: 
+    authors: 
+    pdf: 
+    code: 
+    demo: 
+    slides: 
+    talk:
+    abstract-less: Since the age of 13, I have been deeply engaged in playing basketball, a journey that continued through my years at Heriot-Watt University. This experience has been instrumental in developing key personal and professional qualities such as teamwork, fellowship, and resilience. Participating in basketball at the university level taught me the importance of working collaboratively towards a common goal, fostering a spirit of camaraderie among teammates. 
+    abstract-more: It also instilled in me a never-give-up attitude, essential for overcoming challenges both on and off the court. My final year at university was marked by a significant achievement when our team won the cup. This victory was not just a personal triumph but a testament to our collective effort, strategic planning, and unwavering determination to succeed as a team. This experience has left an indelible mark on me, shaping me into a team player equipped with leadership skills and a robust work ethic, ready to bring these qualities to my professional career.
+    tag: basketball
+    category: Other
   
-  - picture: assets/img/basketball.jpg
-    desc: Since the age of 13, I have been deeply engaged in playing basketball, a journey that continued through my years at Heriot-Watt University. This experience has been instrumental in developing key personal and professional qualities such as teamwork, fellowship, and resilience. Participating in basketball at the university level taught me the importance of working collaboratively towards a common goal, fostering a spirit of camaraderie among teammates. It also instilled in me a never-give-up attitude, essential for overcoming challenges both on and off the court. My final year at university was marked by a significant achievement when our team won the cup. This victory was not just a personal triumph but a testament to our collective effort, strategic planning, and unwavering determination to succeed as a team. This experience has left an indelible mark on me, shaping me into a team player equipped with leadership skills and a robust work ethic, ready to bring these qualities to my professional career.
-    time: September 2012 - May 2022
+  - title: Travelling
+    system-name: 
+    gif: assets/img/airplane.jpg
+    conference:
+    conference-web: 
+    status: 
+    authors:
+    pdf: 
+    code: 
+    demo: 
+    slides: 
+    talk: 
+    abstract-less: My extensive travels across Europe, Asia, Australia, and Latin America, combined with my master's degree, have enriched my understanding of diverse cultures, customs, and mindsets. This broadened perspective is invaluable in my technology-focused career, enabling me to effectively integrate and apply technological solutions across different societal contexts. 
+    abstract-more: My experiences have equipped me with the ability to navigate cultural complexities, ensuring that technology adoption is sensitive to the nuances of various global communities.
+    tag: travelling
+    category: Other
 
-  - picture: assets/img/airplane.jpg
-    desc: My extensive travels across Europe, Asia, Australia, and Latin America, combined with my master's degree, have enriched my understanding of diverse cultures, customs, and mindsets. This broadened perspective is invaluable in my technology-focused career, enabling me to effectively integrate and apply technological solutions across different societal contexts. My experiences have equipped me with the ability to navigate cultural complexities, ensuring that technology adoption is sensitive to the nuances of various global communities.
-    time: 
+ 
+
+  - picture: 
+    desc: 
 
   
