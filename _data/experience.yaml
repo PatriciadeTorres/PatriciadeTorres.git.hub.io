@@ -2,7 +2,7 @@ mini-projects:
 
   - title: Summer Internship (2023)
     system-name: 
-    gif: _site/assets/img/toulouse.jpeg
+    gif: assets/img/toulouse.jpeg
     event: Université Toulouse III-Paul Sabatier, Toulouse, France
     event-web: https://www.univ-tlse3.fr/
     team: Light and Matter Research Group
@@ -14,7 +14,7 @@ mini-projects:
 
   - title: Summer Internship (2021)
     system-name:  
-    gif:  _site/assets/img/clinic.jpeg
+    gif: assets/img/clinic.jpeg
     event: Hospital Clínic de Barcelona
     event-web: 
     team: ClinicAI
@@ -26,7 +26,7 @@ mini-projects:
 
   - title: International Volunteer (2017)
     system-name:  
-    gif:  _site/assets/img/ageuk.jpeg
+    gif:  assets/img/ageuk.jpeg
     event: Age UK Tonbridge
     event-web: https://www.ageuk.org.uk/maidstone-sevenoaks-tonbridge/
     team: 
@@ -38,7 +38,7 @@ mini-projects:
   
   - title: Private Tutor
     system-name:  
-    gif: _site/assets/img/tutor.jpeg
+    gif: assets/img/tutor.jpeg
     event: 
     event-web: 
     team: 
