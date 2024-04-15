@@ -1,5 +1,4 @@
 mini-projects:
-
   - title: Master of Science in Imaging and Light in Extended Reality (IMLEX).
     system-name: 
     gif: assets/img/imlex_logo.png
@@ -9,12 +8,12 @@ mini-projects:
     post: 
     code: 
     demo: 
-    description: It consists in a consortium between universities. I have done the first semester in Finland, second in Belgium, and third and thesis in Japan.
+    description: It consists of a consortium between universities. I have done the first semester in Finland, second in Belgium, and third and thesis in Japan.
     prize: EMJMD Erasmus Mundus Scholarship (Fully funded scholarship awarded by the European Union Commission to study an international joint master's degree programme).
 
   - title: Bachelor in Science Mathematics (Hons)
     system-name:  
-    gif:  assets/img/HW-Logo-Global-Mono.png
+    gif: assets/img/HW-Logo-Global-Mono.png
     event: Heriot Watt University
     event-web: https://www.hw.ac.uk/
     team: Mathematics and Computer Science Department
@@ -22,4 +21,4 @@ mini-projects:
     code:  
     demo: 
     description: First Class Degree.
-    prize: 1st year - Univeristy Award (This is awarded to top year student of the year (2018)), 2nd year - Univeristy Award (This is awarded to top year student of the year (2019)), 4th year - Institute of Applied Mathematics and Its Applications Prize(This is awarded to a student for excellence in a Mathematics degree programme(2022)), 4th year - The Roderick McCallum Prize (This is awarded for exceptional merit to the top fourth year students in Mathematics(2022)).
+    prize: "1st year - University Award (Awarded to top year student of the year 2018); 2nd year - University Award (Awarded to top year student of the year 2019); 4th year - Institute of Applied Mathematics and Its Applications Prize (Awarded to a student for excellence in a Mathematics degree programme 2022); 4th year - The Roderick McCallum Prize (Awarded for exceptional merit to the top fourth year students in Mathematics 2022)"
