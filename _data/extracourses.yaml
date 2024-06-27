@@ -1,7 +1,10 @@
 pictures:
-  
-  - source: assets/img/extracourses/inprogress.png
-    caption: Using AR Foundation in Coursera [In Progress]
+  - source: assets/img/extracourses/ARMarketing.png
+    caption: AR in marketing using Meta Spark in Coursera
+    year: 2024
+
+  - source: assets/img/extracourses/FoundationsAR.png
+    caption: Foundations of AR in Coursera 
     year: 2024
 
   - source: assets/img/extracourses/CourseraUnityC.png
