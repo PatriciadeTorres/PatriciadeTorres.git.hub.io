@@ -12,7 +12,7 @@ categories:
 
 projects:
 
-  - title: Perception of Angriness in Crowds under Cross-cultural and Facial Colour Differences.
+  - title: Perception of Anger in Crowds under Cross-cultural and Facial Colour Differences.
     system-name: 
     gif: 
     conference: Toyohashi University of Technology (2024)
@@ -24,7 +24,7 @@ projects:
     demo: 
     slides: 
     talk: 
-    abstract-less: People tend to recognize better the emotions of their own ethiniticity. This study implements virtual reality in order to study how well participants can determine between asian and caucasian avatars. 
+    abstract-less: Several factors can hint or hinder us for perceiving facial expressions. People tend to recognize better the emotions of their own ethiniticity. The first experiment implements virtual reality in order to study how well participants can determine between asian and caucasian avatars. Facial coloured can influence in our perception, and thus the second experiment studies how redness can affect our perception.
     abstract-more: Technology and softwares used were Virtual reality equipment, Unity, C#, FaceGenModeller and RStudio.
     tag: avatar_emotions
     category: Cognitive Science
