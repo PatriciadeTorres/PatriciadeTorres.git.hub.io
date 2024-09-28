@@ -17,15 +17,15 @@ projects:
     gif: 
     conference: Toyohashi University of Technology (2024)
     conference-web: https://www.tut.ac.jp/english/
-    status: In Progress
+    status: In progress of being published by the master.
     authors: Patricia de Torres Coll.
     pdf: 
     code: 
     demo: 
     slides: 
     talk: 
-    abstract-less: Several factors can hint or hinder us for perceiving facial expressions. People tend to recognize better the emotions of their own ethiniticity. The first experiment implements virtual reality in order to study how well participants can determine between asian and caucasian avatars. Facial coloured can influence in our perception, and thus the second experiment studies how redness can affect our perception.
-    abstract-more: Technology and softwares used were Virtual reality equipment, Unity, C#, FaceGenModeller and RStudio.
+    abstract-less: Several factors can hint or hinder us for perceiving facial expressions. People tend to recognize better the emotions of their own ethiniticity. The first experiment implements virtual reality in order to study how well participants can determine between asian and caucasian avatars. Facial coloured can also influence in our perception, and thus the second experiment studies how redness can affect our perception.
+    abstract-more: Technology and softwares used were Virtual reality equipment, Unity, C#, FaceGenModeller, Blender and RStudio.
     tag: avatar_emotions
     category: Cognitive Science
 
